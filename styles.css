@@ -456,7 +456,8 @@ a:hover {
 }
 
 .contact-mail {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
+  overflow-wrap: anywhere;
 }
 
 .contact-mail:hover,
